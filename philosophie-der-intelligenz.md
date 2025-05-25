@@ -341,7 +341,6 @@ sondern zum Ort der Wiederholung, der Brechung, der Perspektive.
 > Aber sie löst sie zugleich auf.  
 > Das Ich, das denkt, ist frei –  
 > und genau darin unendlich verletzlich.
-> Perfekt – hier ist Kapitel 4 im Markdown-Format, bereit zum Einfügen auf GitHub:
 
 ## 4. Die maschinelle Intelligenz: Das Unheimliche im Verwandten
 
